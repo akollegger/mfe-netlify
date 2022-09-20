@@ -5,6 +5,7 @@
   "scripts": {
     "start": "nx serve",
     "build": "nx build",
+    "build:todo": "nx build todo",
     "test": "nx test",
     "postinstall": "ngcc --properties es2020 browser module main"
   },
