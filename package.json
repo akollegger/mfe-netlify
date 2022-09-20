@@ -6,6 +6,7 @@
     "start": "nx serve",
     "build": "nx build",
     "build:todo": "nx build todo",
+    "build:login": "nx build login",
     "test": "nx test",
     "postinstall": "ngcc --properties es2020 browser module main"
   },
